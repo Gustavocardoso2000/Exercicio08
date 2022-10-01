@@ -17,6 +17,5 @@ public class App {
         System.out.println("valor do seu salario mês " + salario_mes);
         
     }
-
 }
 
